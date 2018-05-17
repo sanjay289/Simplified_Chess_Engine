@@ -19,7 +19,7 @@ int victory(char b[M][M],char c[M][M],int m,int e)
             opp='B';
             me='W';
             t=0;
-            dest=4;
+            dest=M-1;
             init=1;
             motion=1;
         }
@@ -31,7 +31,7 @@ int victory(char b[M][M],char c[M][M],int m,int e)
             me='B';
             t=1;
             dest=1;
-            init=4;
+            init=M-1;
             motion=-1;
         }
         for(i=1;i<M;i++)    //checking if opponent's queen can be taken!
