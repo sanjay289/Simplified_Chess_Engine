@@ -6,4 +6,4 @@ You can change the board size by modifying the variable 'M' as mentioned in the 
 
 For more information regarding input format, constraints etc. please read the problem statement.
 
-Feel free to contact regarding implementation, doubts etc. in the written program. Think twice before changing/looking the code.
+Feel free to contact regarding sugesstions, implementation doubts etc. in the written program. 
